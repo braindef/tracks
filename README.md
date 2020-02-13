@@ -14,6 +14,12 @@ requires:
  6. some Powerful Laptop like the Asus GL703GE with Intel 6-Core i7 [1500.--]
  7. Reason 11 Suite [~500€]
  8. wiggle VST [20$]
+ 9. Cubase Pro 10.5 [581.-- CHF]
+ 10. Steinberg Absolute 4 [422.-- CHF]
+ 11. Synth1 && synthmorph-synth1-pluto-box.zip [20$]
+ 12. Dexed VST [Free]
+ 13. Hardstyle Force Samples [Free]
+ 14. 
 
 
 ![https://github.com/braindef/music-source/blob/master/equipment.jpg](https://github.com/braindef/music-source/blob/master/equipment.jpg)

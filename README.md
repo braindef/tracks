@@ -19,7 +19,8 @@ requires:
  11. Synth1 && synthmorph-synth1-pluto-box.zip [20$]
  12. Dexed VST [Free]
  13. Hardstyle Force Samples [Free]
- 14. 
+ 14. Voltage Modular VST && PSP Addon 200.--
+ 15. Reason 11 (VST Function) 400.--
 
 
 ![https://github.com/braindef/music-source/blob/master/equipment.jpg](https://github.com/braindef/music-source/blob/master/equipment.jpg)

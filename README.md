@@ -6,7 +6,7 @@ requires:
  1. Ableton 10 [700.--]
  2. Dune3 (https://www.synapse-audio.com/dune3.html)  [190.--]
  3. Tone 2 Elektra 2 (https://www.tone2.com/electra2.html) [100.--]
- 4. Steinberg Absoulte Collection 1 (https://new.steinberg.net/de/absolute/) [600.--]
+ 4. Voltage Modular VST && PSP Addon 100.--
  5. Some input device like
   - Novation Launchkey (https://novationmusic.com/de/keys/launchkey) [188.--]
   - Novation (https://novationmusic.com/de/launch/launchpad-pro) [236.--]
@@ -19,8 +19,6 @@ requires:
  11. Synth1 && synthmorph-synth1-pluto-box.zip [20$]
  12. Dexed VST [Free]
  13. Hardstyle Force Samples [Free]
- 14. Voltage Modular VST && PSP Addon 200.--
- 15. Reason 11 (VST Function) 400.--
 
 
 ![https://github.com/braindef/music-source/blob/master/equipment.jpg](https://github.com/braindef/music-source/blob/master/equipment.jpg)

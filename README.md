@@ -23,7 +23,7 @@ requires:
  15. ChipSounds / ChipCrusher ~150.-- 
 
 
-![https://github.com/braindef/music-source/blob/master/equipment.jpg](https://github.com/braindef/music-source/blob/master/equipment.jpg)
+![https://github.com/braindef/tracks/blob/master/equipment.jpg](https://github.com/braindef/tracks/blob/master/equipment.jpg)
 
 Finished Tracks are on my Soundcloud Account:
 - https://soundcloud.com/landev

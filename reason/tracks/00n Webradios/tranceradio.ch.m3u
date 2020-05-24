@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:26,
+http://server2.digital-webstream.de:10780
+http://relay.radio.ethz.ch:8001/tranceradio.mp3
+http://www.trancetv.net:80

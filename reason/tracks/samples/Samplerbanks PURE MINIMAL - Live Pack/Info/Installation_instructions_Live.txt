@@ -1,0 +1,28 @@
+﻿SAMPLERBANKS INSTALLATION INSTRUCTIONS FOR 
+'PURE MINIMAL' LIVE PACK
+
+SYSTEM REQUIREMENTS: 
+Ableton Live 8.1.3 or later is required. You can not install this Live Pack on any older version of Live.
+
+INSTALLATION:
+After downloading and unzipping, double-click the Live Pack icon or select "Install Live Pack..." from Live's File menu. Then navigate to the desired Live Pack to install it. After the installation is finished, the content can be found in Live's Browser:
+
+• The loops are available in the folder Samples/Samplerbanks/PURE MINIMAL/Loops.
+• The one-shots are available in the folder Samples/Samplerbanks/PURE MINIMAL/One-shots.
+• The Simpler presets are available in the folder Instruments/Samplerbanks/PURE MINIMAL/Simpler.
+• The Sampler presets are available in the folder Instruments/Samplerbanks/PURE MINIMAL/Sampler.
+• The Drum Rack presets are available in the folder Instruments/Samplerbanks/PURE MINIMAL/Drum Rack.
+
+CONTENT:
+- 409 warped WAV loops, sorted by keys or bpm 
+- 100 Hats, 102 Kicks, 100 Percussions, 9 Riffs, 100 Snares and Claps, 50 Sound FX, 22 Stabs, 15 Vocals
+- 2x12 multi-sample presets in both Simpler and Sampler formats
+- 12 Drum Racks 
+- 1 Live Set demo
+
+Thanks for your support and enjoy your product!
+The Samplerbanks Team
+
+Samplerbanks - Your Source of Inspiration!
+http://www.samplerbanks.com
+email: support@samplerbanks.com

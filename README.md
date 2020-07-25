@@ -25,6 +25,11 @@ requires:
 
 ![https://github.com/braindef/tracks/blob/master/equipment.jpg](https://github.com/braindef/tracks/blob/master/equipment.jpg)
 
+
+## ProductionSetup with Akai 2x MPC mini for Ableton
+Mouse and Keyboard on Digital Piano and Tischhalterung Icy Box bis 32" Schwarz for the Screen (middle only)
+
+![https://github.com/braindef/tracks/blob/master/perfectEfficientSetup.jpg](https://github.com/braindef/tracks/blob/master/perfectEfficientSetup.jpg)
 Finished Tracks are on my Soundcloud Account:
 - https://soundcloud.com/landev
 - https://soundcloud.com/marc-floppy-landolt

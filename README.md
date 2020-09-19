@@ -21,10 +21,10 @@ requires:
  13. Hardstyle Force Samples [Free]
  14. Ascendion VST 20.--
  15. ChipSounds / ChipCrusher ~150.-- 
-
+ 16. U-He Zebra2 ~100.--
+ 17. Synthmaster and SynthMaster One ~100.--
 
 ![https://github.com/braindef/tracks/blob/master/equipment.jpg](https://github.com/braindef/tracks/blob/master/equipment.jpg)
-
 
 ## ProductionSetup with Akai 2x MPC mini for Ableton
 Mouse and Keyboard on Digital Piano and Tischhalterung Icy Box bis 32" Schwarz for the Screen (middle only)
